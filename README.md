@@ -1,7 +1,5 @@
 # [Build a GitHub Jobs App With React Hooks](https://www.youtube.com/watch?v=fxY1q4SCB64)
 
-
-
 ## Project creation step
 
 - `create-react-app react-hooks-github-jobs-app`
@@ -11,6 +9,9 @@
 
 ## Topics Cover
 - create react app
+- Action, dispatch, reducer
+- useState, useEffect hooks
+- axios, get
 
 ## Quick Start
 
