@@ -5,11 +5,11 @@
 ## Project creation step
 
 - `create-react-app react-hooks-github-jobs-app`
+- `npm i axios react-bootstrap`
 - `npm start` or `yarn start`
 
 ## Topics Cover
 - create react app
-- 
 
 ## Quick Start
 
