@@ -7,6 +7,7 @@
 - `create-react-app react-hooks-github-jobs-app`
 - `npm i axios react-bootstrap`
 - `npm start` or `yarn start`
+- for access issue added before api url like that `https://cors-anywhere.herokuapp.com/https://jobs.github.com/positions.json`
 
 ## Topics Cover
 - create react app
