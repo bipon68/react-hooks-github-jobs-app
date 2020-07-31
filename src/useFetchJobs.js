@@ -39,6 +39,7 @@ export default function useFetchJobs(params, page){
             params: {markdown: true, page: page, ...params}
         }).then(res => {
             dispatch({type: ACTIONS.GET_DATA, payload: {jobs: res.data}})
+            console.log('res : ', res)
             console.log('data : ', res.data)
         }).catch(e => {
             if (axios.isCancel(e)) return

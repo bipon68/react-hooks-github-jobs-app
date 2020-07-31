@@ -6,6 +6,7 @@
 - `npm i axios react-bootstrap`
 - `npm start` or `yarn start`
 - for access issue added before api url like that `https://cors-anywhere.herokuapp.com/https://jobs.github.com/positions.json`
+- `npm i react-markdown`
 
 ## Topics Cover
 - create react app
